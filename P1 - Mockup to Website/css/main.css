@@ -1,0 +1,32 @@
+body {
+	font: 16px/1.6 Kalimati, Verdana, sans-serif;
+	color: #666666;
+}
+
+h1 {
+	font-size: 3em;
+	text-align: center;
+	margin: 0;
+	padding: 46px 0 30px 0;
+}
+
+h2 {
+	color: #F07C17;
+	font-weight: bold;
+	font-size: 1.5em;
+	margin: 0 0 30px 0;
+}
+
+p {
+	line-height: 200%;
+}
+
+li {
+	line-height: 200%;
+}
+
+.feature-box {
+	margin: 31px 0 0 1px;
+	padding: 29px 30px 30px 29px;
+	border: 1px solid #CCCCCC;
+}
